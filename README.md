@@ -4,6 +4,8 @@
 - 🚀 Passionate about web development and embedded systems
 - 🛠️ Studying mechanical engineering
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kai0930&theme=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kai0930&show_icons=true&locale=en&layout=compact)
 
 ## Tech Stack
