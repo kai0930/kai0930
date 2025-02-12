@@ -1,16 +1,30 @@
-## Hi there 👋
+## About Me
 
-<!--
-**kai0930/kai0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Kai! 🖐️
+- 🚀 Passionate about web development and embedded systems
+- 🛠️ Studying mechanical engineering
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kai0930&show_icons=true&locale=en&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+
+### Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Vue.js](https://skillicons.dev/icons?i=vue)
+![Electron](https://skillicons.dev/icons?i=electron)
+
+### Tools & Services
+![Supabase](https://skillicons.dev/icons?i=supabase)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
