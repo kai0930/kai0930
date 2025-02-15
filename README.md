@@ -2,13 +2,13 @@
 
 ## Hi, I'm Kai! 🖐️
 - 🚀 Passionate about web development and embedded systems
-- 🛠️ Studying mechanical engineering
+- 🛠️ Studying mechanical engineering at university
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kai0930&show_icons=true" />
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kai0930&show_icons=true&bg_color=8BC5E11D" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai0930&layout=donut" />
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai0930&layout=donut&bg_color=8BC5E11D" />
 </a>
 
 # Tech Stack
