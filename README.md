@@ -3,6 +3,7 @@
 ## Hi, I'm Kai! 🖐️
 - 🚀 Passionate about web development and embedded systems
 - 🛠️ Studying mechanical engineering at university
+- - 🌐 [My Portfolio](https://kai0930)
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kai0930&show_icons=true&bg_color=8BC5E11D" />
