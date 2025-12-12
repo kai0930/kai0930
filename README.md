@@ -6,10 +6,10 @@
 - 🌐 [My Portfolio](https://kai0930.dev)
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kai0930&show_icons=true&bg_color=8BC5E11D" />
+  <img height=200 align="center" src="https://github-readme-stats-chi-six-87.vercel.app/api?username=kai0930&show_icons=true&bg_color=8BC5E11D" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai0930&layout=donut&bg_color=8BC5E11D" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel-chi-six-87.app/api/top-langs/?username=kai0930&layout=donut&bg_color=8BC5E11D" />
 </a>
 
 # Tech Stack
