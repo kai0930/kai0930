@@ -23,6 +23,7 @@
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Python](https://skillicons.dev/icons?i=python)
 
 ## Frameworks & Libraries
 
@@ -30,6 +31,7 @@
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Electron](https://skillicons.dev/icons?i=electron)
+![ReactNative](https://skillicons.dev/icons?i=reactnative)
 
 ## Tools & Services
 
@@ -37,3 +39,8 @@
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![GCP](https://skillicons.dev/icons?i=gcp)
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Nodejs](https://skillicons.dev/icons?i=nodejs)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+
